@@ -1,0 +1,6 @@
+@RestWithASPNET_HostAddress = http://localhost:8080
+
+GET {{RestWithASPNET_HostAddress}}/swagger-ui/index.html
+Accept: text/html
+
+###

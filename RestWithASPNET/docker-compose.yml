@@ -1,0 +1,28 @@
+services:
+  restwithaspnet:
+    image: ${DOCKER_REGISTRY-}restwithaspnet
+    build:
+      context: .
+      dockerfile: RestWithASPNET/Dockerfile
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=asp_net;User Id=sa;Password=@Admin123;TrustServerCertificate=True;
+    networks:
+      - network
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver_db
+    ports:
+      - "1433:1433"
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=@Admin123
+    networks:
+      - network
+
+networks:
+  network:
+    driver: bridge

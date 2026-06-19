@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\REST-api-project\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93DA2FE4-9B59-4F0B-BDDB-F4720474A830}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\usuario\\source\\repos\\rest-api-project\\restwithaspnet\\restwithaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{93DA2FE4-9B59-4F0B-BDDB-F4720474A830}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\usuario\\source\\repos\\rest-api-project\\restwithaspnet\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93DA2FE4-9B59-4F0B-BDDB-F4720474A830}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\usuario\\source\\repos\\rest-api-project\\restwithaspnet\\restwithaspnet\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{93DA2FE4-9B59-4F0B-BDDB-F4720474A830}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\REST-api-project\\RestWithASPNET\\RestWithASPNET\\appsettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNET\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\REST-api-project\\RestWithASPNET\\RestWithASPNET\\appsettings.json",
+              "RelativeToolTip": "RestWithASPNET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-19T18:05:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\REST-api-project\\RestWithASPNET\\RestWithASPNET\\Dockerfile",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Dockerfile",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\REST-api-project\\RestWithASPNET\\RestWithASPNET\\Dockerfile",
+              "RelativeToolTip": "RestWithASPNET\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-19T17:54:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\REST-api-project\\RestWithASPNET\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\REST-api-project\\RestWithASPNET\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-19T17:54:19.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
